@@ -36,7 +36,7 @@ const mfe1ServerConfig = {
         chunkFilename: "[id].[chunkhash].js",
         libraryTarget: "commonjs2"
     },
-    mode: "production"
+    mode: config.mode
 };
 
 module.exports = mfe1ServerConfig;

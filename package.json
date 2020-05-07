@@ -33,7 +33,7 @@
     "@angular-devkit/architect": "file:libs/_angular-devkit_architect.tgz",
     "@angular-devkit/architect-cli": "file:libs/_angular-devkit_architect-cli.tgz",
     "@angular-devkit/build-angular": "file:libs/_angular-devkit_build-angular.tgz",
-    "@angular-devkit/build-ng-packagr": "file:libs/_angulfedar-devkit_build-ng-packagr.tgz",
+    "@angular-devkit/build-ng-packagr": "file:libs/_angular-devkit_build-ng-packagr.tgz",
     "@angular-devkit/build-optimizer": "file:libs/_angular-devkit_build-optimizer.tgz",
     "@angular-devkit/build-webpack": "file:libs/_angular-devkit_build-webpack.tgz",
     "@angular-devkit/core": "file:libs/_angular-devkit_core.tgz",
