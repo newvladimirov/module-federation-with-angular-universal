@@ -21,7 +21,7 @@
     "@angular/router": "^9.1.4",
     "@nguniversal/express-engine": "^9.1.0",
     "concurrently": "^5.2.0",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "json-stringify": "^1.0.0",
     "mini-css-extract-plugin": "^0.9.0",
     "ngx-build-plus": "^9.0.6",
